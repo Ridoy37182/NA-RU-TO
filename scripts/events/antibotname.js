@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "Úzúmãkí Ňãrûtø",
+  name: "1",
   eventType: ["log:user-nickname"],
   version: "0.0.1",//beta
   credits: "Nayan",
